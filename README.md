@@ -5,7 +5,7 @@ I'm not dropping anyting here on GitHub until I start coding, so mostly I'm look
 - 👀 I’m interested in ... techology hardware advances, Apple ecosystem, troubleshooting & problem solving.
 - 🌱 I’m currently learning ... project management, working on a PMP (well that's the end goal), some Apple App coding (it's slow)
 - 💞️ I’m looking to collaborate on ... nothing currently.
-- 📫 How to reach me ... TheCoyoteDreams@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 TheCoyoteDreams/TheCoyoteDreams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
